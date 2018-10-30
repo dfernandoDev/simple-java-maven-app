@@ -26,4 +26,5 @@ pipeline {
         sh './jenkins/scripts/deliver.sh'
       }
     }
+	}
 }
